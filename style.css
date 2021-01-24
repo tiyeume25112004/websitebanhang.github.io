@@ -17,13 +17,13 @@ body{
         width :800px;
        background : yellow;
     float:left;
-        min-height:500px
+      height:500px
 }
 #main #right {
       width :200px;
        background : blue;
     float:left;
-    min-height:500px
+    height:500px
 }
 #footer{
      background : yellow;
