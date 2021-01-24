@@ -8,3 +8,31 @@ body{
        background : #141414;
     height: 40px;
 }
+#banner{
+       background : red;
+     height: 280px;
+    width :1000px;
+}
+#main #left {
+        width :800px;
+       background : #23232;
+    float:left;
+        min-hight:400px
+}
+#main #right {
+      width :200px;
+       background : blue;
+    float:left;
+    min-hight:400px
+}
+#footer{
+     background : blue;
+     width :1000px;
+    text-align: centre;
+        height: 60px;
+    color: white;
+    clear: left;
+}
+
+
+
