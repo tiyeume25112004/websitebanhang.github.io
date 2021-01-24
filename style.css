@@ -51,4 +51,5 @@ list-style : none;
 }
 #menu_top ul a.active {
     background: #1949b5;
+    border-right: 1px solid #ccc;
 }
