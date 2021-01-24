@@ -41,5 +41,14 @@ body{
 list-style : none;
     float: left;
 }
-
-
+#menu_top ul a {
+    text-decoration : none;
+    display : block;
+    height: 40px;
+    line-height: 40px;
+    color:#FFF;
+    padding : 0px 30px 0px 30px;
+}
+#menu_top ul a.active {
+    background: #1949b5;
+}
