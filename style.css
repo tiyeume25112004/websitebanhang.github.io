@@ -15,15 +15,15 @@ body{
 }
 #main #left {
         width :800px;
-       background : #293232;
+       background : yellow;
     float:left;
-        min-hight:500px
+        min-height:500px
 }
 #main #right {
       width :200px;
        background : blue;
     float:left;
-    min-hight:500px
+    min-height:500px
 }
 #footer{
      background : yellow;
