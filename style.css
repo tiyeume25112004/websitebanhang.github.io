@@ -50,7 +50,6 @@ list-style : none;
     padding : 0px 30px 0px 30px;
     border-right: 1px solid #ccc;
 }
-#menu_top ul a.active {
+#menu_top ul li a.active {
     background: #1949b5;
-    border-right: 1px solid #red;
 }
