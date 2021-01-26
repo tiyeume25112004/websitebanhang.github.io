@@ -8,8 +8,7 @@ body{
        background : #141414;
     height: 40px;
 }
-#banner{
-       background : red;
+#banner{       
      height: 260px;
     width :1000px;
 }
@@ -52,4 +51,8 @@ list-style : none;
 }
 #menu_top ul li a.active {
     background: #1949b5;
+}
+#banner img{
+    width: 1000px;
+    height:260px;
 }
