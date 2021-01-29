@@ -9,7 +9,7 @@ body{
     height: 40px;
 }
 #banner{       
-     height: 260px;
+     height: 300px;
     width :1000px;
 }
 #main #left {
@@ -54,5 +54,5 @@ list-style : none;
 }
 #banner img{
     width: 1000px;
-    height: 260px;
+    height: 300px;
 }
