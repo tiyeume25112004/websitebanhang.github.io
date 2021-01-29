@@ -13,12 +13,12 @@ body{
     width :1000px;
 }
 #main #left {
-        width :800px;
+        width :700px;
     float:left;
       height:500px
 }
 #main #right {
-      width :200px;
+      width :300px;
        background : blue;
     float:left;
     height:500px
@@ -61,9 +61,24 @@ list-style : none;
 }
 #main #left ul li {
 list-style : none;
+    clear :left;
+    border-bottom : 2px solid #ccc;
+    float: left;
+     margin-bottom: 20px;
 }
 #main #left ul li img {
     height :87.33px;
     width :87.33px;
     float: left;
+    margin-right: 10px;
+     margin-bottom: 20px;
 }
+#main #left ul li {
+    font-size : 16px;
+}
+#main {
+    margin-top: 8px;
+}
+#main #left ul li h2 {
+font-size : 16;
+margin-top: 0px;
