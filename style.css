@@ -55,7 +55,15 @@ list-style : none;
     width: 1000px;
     height: 300px;
 } 
-#left ul li img {
+#main #left ul {
+     margin: 0px;
+    padding: 0px;
+}
+#main #left ul li {
+list-style : none;
+}
+#main #left ul li img {
     height :87.33px;
     width :87.33px;
+    float: left;
 }
