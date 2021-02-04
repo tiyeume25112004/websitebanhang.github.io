@@ -1,0 +1,14 @@
+-Vi du 3:
+Program vd3:
+Var tep_1:text;
+A,b,c,s:integer;
+Begin
+s:=0;
+Assign(tep_1,’ input.txt’); reset(tep_1);
+          readln(tep_1,a,b,c);
+           s:=a+b+c;
+Writeln('tong 3 so nguyen trong tep= ',s);
+Close(f);
+Readln;
+end.
+
