@@ -20,7 +20,12 @@ body{
 #main #nom {
     width:200px;
     height:500px;
-     float:left;
+    float:left;
+}
+#main #nom ul li img{
+    width:200px;
+    height:500px;
+}
 #main #right {
       width :300px;
        background : #B4E6E1;
